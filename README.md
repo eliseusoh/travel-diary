@@ -39,12 +39,12 @@ Add, edit, and view your travel memories—all in your browser.
 ---
 
 ## 📝 How It Works
-Add a Place:
-- Go to "Add Place", fill in the form, and submit. Your place appears on the homepage!
-Edit a Place:
-- Click "Edit" on any place to update its info.
-View Details:
-- Click a place name to see more details.
+- Add a Place:
+  - Go to "Add Place", fill in the form, and submit. Your place appears on the homepage!
+- Edit a Place:
+   - Click "Edit" on any place to update its info.
+- View Details:
+   - Click a place name to see more details.
 
 ---
 
