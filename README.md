@@ -1,16 +1,3 @@
-Travel Diary
-
-Using: 
-useState - managing form inputs and app state
-useEffect - syncing state with localStorage
-useNavigate and useParams - for navigating and reading dynamic URL paths
-React Router - for handling multiple pages
-Component reusability and props
-State lifting
-Conditional rendering
-Controlled form inputs
-Dynamic routing and route based rendering
-
 ## ✈️ Travel Diary
 A fun React app to save and explore your favorite places!
 Add, edit, and view your travel memories—all in your browser.
@@ -28,6 +15,7 @@ Add, edit, and view your travel memories—all in your browser.
 - Dynamic Routing: URLs update for each place 🔗
 - Controlled Forms: All form inputs are managed by React ✍️
 - Conditional Rendering: UI updates based on your data 🎨
+- useNavigate and useParams: for navigating and reading dynamic URL paths 🔗
 
 ---
 
