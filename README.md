@@ -32,29 +32,30 @@ Add, edit, and view your travel memories—all in your browser.
 ---
 
 ## 🛠️ Tech Stack
-React 19
-React Router DOM 7
-CSS for styling
+- React 19
+- React Router DOM 7
+- CSS for styling
 
 ---
 
 ## 📝 How It Works
 Add a Place:
-Go to "Add Place", fill in the form, and submit. Your place appears on the homepage!
+- Go to "Add Place", fill in the form, and submit. Your place appears on the homepage!
 Edit a Place:
-Click "Edit" on any place to update its info.
+- Click "Edit" on any place to update its info.
 View Details:
-Click a place name to see more details.
+- Click a place name to see more details.
 
 ---
 
 🏁 Quick Start
 ```bash
 1. Install dependencies
-npm install
+     npm install
+```
 
 ```bash
 2. Run the app
-npm start
-
+     npm start
+```
 
