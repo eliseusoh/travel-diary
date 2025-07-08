@@ -50,12 +50,12 @@ Add, edit, and view your travel memories—all in your browser.
 
 🏁 Quick Start
 ```bash
-## 1. Install dependencies
+1. Install dependencies
      npm install
 ```
 
 ```bash
-## 2. Run the app
+2. Run the app
      npm start
 ```
 
