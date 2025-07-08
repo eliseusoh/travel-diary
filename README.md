@@ -1,6 +1,6 @@
 ## ✈️ Travel Diary
 A fun React app to save and explore your favorite places!
-Add, edit, and view your travel memories—all in your browser.
+Add, edit, and view your travel memories.
 
 ---
 
